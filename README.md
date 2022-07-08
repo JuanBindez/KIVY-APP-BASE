@@ -17,10 +17,6 @@ https://kivymd.readthedocs.io/en/latest/
 
 `$ sudo apt-get update`
 
-# instalando o Kivy no Python 2x
-
-`$ sudo apt-get install python-kivy`
-
 # instalando o Kivy no Python 3x
 
 `$ sudo apt-get install python3-kivy`
